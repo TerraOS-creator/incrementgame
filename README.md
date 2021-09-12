@@ -1,4 +1,2 @@
 # Incrementalgame
-# Incrementalgame
-# Incrementalgame
-# incrementgame
+New fitur: Sultan 
